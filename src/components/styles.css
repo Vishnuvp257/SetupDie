@@ -1,0 +1,18 @@
+.toolbar-label{
+    font-weight: bold;
+}
+
+.webix_button {
+    background-color: #2362a1 !important; 
+    color: white !important; 
+    border-radius: 5px; 
+}
+
+.fullscreen-container {
+    margin-top: 20px;
+    margin-left:20px;
+}
+
+.webix_el_box{
+    line-height: 2 !important;
+}
