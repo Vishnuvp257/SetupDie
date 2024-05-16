@@ -27,17 +27,17 @@ const SetupField = {
                             { 
                                 view: "button", 
                                 value: "Update", 
-                                width:123
+                                width:90
                             },
                             { 
                                 view: "button", 
                                 value: "Add", 
-                                width:123,
+                                width:90,
                             },
                             { 
                                 view: "button", 
                                 value: "Delete",
-                                width:123,  
+                                width:90,  
                             }
                         ]
                     }
